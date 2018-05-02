@@ -1,9 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+	"actor": [
+		{
+			"id": 1,
+			"name": "Mahesh",
+			"industry": "Telugu",
+			"ratings": 4.8
+		},
+		{
+			"id": 2,
+			"name": "Ranbir",
+			"industry": "Hollywood",
+			"ratings": 4.6
+		},
+		{
+			"id": 3,
+			"name": "Aarya",
+			"industry": "Tamil",
+			"ratings": 4.5
+		},
+		{
+			"id": 1,
+			"name": "Chinna",
+			"industry": "Kolywood",
+			"ratings": 4.3
+		},
+		{
+			"id": 1,
+			"name": "Naani",
+			"industry": "Telugu",
+			"ratings": 4.6
+		},
+		{
+			"id": 1,
+			"name": "Dhanush",
+			"industry": "Tamil",
+			"ratings": 4.9
+		}
+	]
 }
